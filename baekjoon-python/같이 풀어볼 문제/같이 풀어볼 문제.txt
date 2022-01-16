@@ -2,3 +2,5 @@
     - https://programmers.co.kr/learn/courses/30/lessons/70128
 22-01-16 / 3진법 뒤집기(프로그래머스 - Level1)
     - https://programmers.co.kr/learn/courses/30/lessons/68935
+22-01-16 / 두 개 뽑아서 더하기
+    - https://programmers.co.kr/learn/courses/30/lessons/68644
