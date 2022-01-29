@@ -4,3 +4,6 @@ def solution(n):
         if n % i == 1:
             answer=i
     return answer
+
+def solution(n):
+    return min([x for x in range(n,0,-1)if n%x==1])
