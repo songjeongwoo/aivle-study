@@ -18,5 +18,10 @@
 22-01-30 / 삼각 달팽이 *각자 나동빈님 이코테강의로 알고리즘 공부 후 다음에 다시 도전
     - https://programmers.co.kr/learn/courses/30/lessons/68645
 
-22-02-06 / 체육복 *22-02-13에 다시 리뷰
+22-02-06 / 체육복 *22-02-13에 다시 리뷰 -> 22-02-20에 리뷰
     - https://programmers.co.kr/learn/courses/30/lessons/42862
+
+22-02-20 / 체육복
+    - https://programmers.co.kr/learn/courses/30/lessons/42862
+22-02-20 / 주식가격 *22-02-27에 다시 리뷰
+    - https://programmers.co.kr/learn/courses/30/lessons/42584
