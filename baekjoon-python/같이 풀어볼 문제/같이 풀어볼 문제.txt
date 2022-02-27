@@ -25,3 +25,6 @@
     - https://programmers.co.kr/learn/courses/30/lessons/42862
 22-02-20 / 주식가격 *22-02-27에 다시 리뷰
     - https://programmers.co.kr/learn/courses/30/lessons/42584
+
+22-02-27 / 주식가격
+    - https://programmers.co.kr/learn/courses/30/lessons/42584
